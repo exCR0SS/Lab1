@@ -1,2 +1,1 @@
-class Main:
-    print("Hello world!")
+print("Hello world!")
